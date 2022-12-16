@@ -8,7 +8,7 @@ Aplicação web para consultar endereço a partir do CEP. Tem como resposta esta
 
 **API Utilizada no projeto:** https://brasilapi.com.br/
 
-![Screenshot](img/screenshot-desktop.JPG?raw=true)
+![Screenshot](../img/screenshot-desktop.JPG?raw=true)
 <HR>
 
 Instale as bibliotecas
