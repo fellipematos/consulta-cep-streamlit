@@ -6,6 +6,7 @@ Aplicação web para consultar endereço a partir do CEP. Tem como resposta esta
 **Bibliotecas utilizadas:** Streamlit e HTTPX
 **API Utilizada no projeto:** https://brasilapi.com.br/
 
+![Screenshot](img/screenshot.JPG?raw=true)
 <HR>
 
 **Como executar:**
