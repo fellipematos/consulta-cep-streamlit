@@ -27,7 +27,9 @@ def resultCep(cep):
 
 #formulario
 with col1:
-    with st.form(key='form'):
-        cep = st.text_input('DIGITE O CEP:')
-        st.form_submit_button('BUSCAR', on_click=resultCep(cep))
-
+    st.markdown("## Digite o CEP")
+    cep = st.text_input("")
+    st.markdown("*00000-000 ou 00000000*")
+    if cep == "":
+        cep = "01311000"
+    st.button('BUSCAR', on_click=resultCep(cep))
