@@ -25,3 +25,6 @@ Inicie o Streamlit
     python -m streamlit run app.py
 
 <HR>
+
+![Streamlit](img/streamlit.JPG?raw=true)
+![BrasilAPI](img/brasilapi.JPG?raw=true)
