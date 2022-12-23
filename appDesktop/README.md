@@ -13,7 +13,7 @@ Aplicação web para consultar endereço a partir do CEP. Tem como resposta esta
 
 Instale as bibliotecas
 
-    python -m pip install -r requirements
+    python -m pip install -r requirements.txt
 
 Inicie o app
 
